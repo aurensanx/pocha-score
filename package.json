@@ -1,5 +1,6 @@
 {
   "name": "pocha-score",
+  "homepage": "https://aurensanx.github.io/pocha-score",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
